@@ -1,0 +1,1 @@
+<p><?= $pack['greetings'] ?></p>
